@@ -10,7 +10,7 @@ This project implements PCA without using sklearn's PCA class, demonstrating the
 ```bash
 git clone https://github.com/62Laura/pca-assignment.git
 cd pca-assignment
-jupyter notebook pca_assignment.ipynb
+jupyter notebook Untitled4.ipynb
 ```
 
 ## Implementation
